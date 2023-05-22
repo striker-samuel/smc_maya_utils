@@ -4,5 +4,5 @@ Maya utilities and helper classes dump.
 
 smc_ref_wrapper.RefWrapper() : Helper class for maya reference nodes. Includes caching, and material serialization and reapplication functionality.
 
-<img src="https://github.com/striker-samuel/smc_widgets/blob/main/screencaps/gpu_cacher_before.jpg">
-<img src="https://github.com/striker-samuel/smc_widgets/blob/main/screencaps/gpu_cacher_after.jpg">
+<img src="https://github.com/striker-samuel/smc_maya_utils/blob/main/screencaps/gpu_cacher_before.jpg">
+<img src="https://github.com/striker-samuel/smc_maya_utils/blob/main/screencaps/gpu_cacher_after.jpg">
